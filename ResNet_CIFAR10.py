@@ -1,6 +1,6 @@
 # @Time    : 8/1/2025 上午 9:19
-# @Author  : Zhao Xuan
-# @File    : 基于ResNet的CIFAR10分类.py
+# @Author  : Xuan
+# @File    : ResNet_CIFAR10.py
 # @Software: PyCharm
 
 """
